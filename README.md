@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/ClementDums/leaddevtp/badge.svg?branch=main)](https://coveralls.io/github/ClementDums/leaddevtp?branch=main)
 # express-app-testing-demo
 
 This project is a simple express app for demonstrating testing and code coverage.
