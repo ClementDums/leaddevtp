@@ -1,0 +1,7 @@
+dd_url: https://app.datadoghq.com
+
+# The Datadog api key to associate your Agent's data with your organization.
+# Can be found here:
+# https://app.datadoghq.com/account/settings
+api_key: 6c3c0e3ade96542d2d9bc18eccdf4db5
+log_level: info
